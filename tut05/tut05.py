@@ -7,6 +7,8 @@ U_avg = df['U'].mean()
 V_avg = df['V'].mean()
 W_avg = df['W'].mean()
 
+
+
 #making columns to store average value of U,V,W
 df['U Avg']=U_avg
 #and here I have given only 1st place of line to U avg otherwise average value will print in whole column
